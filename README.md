@@ -21,7 +21,6 @@ Benle tanışmak veya bot almak için aşşağıdaki adreslerimden bana ulaşabi
 </p>
 
 </p>
-<h3 align="center">GitHub Stats:</h3>
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toanky&theme=dark&count_private=true&show_icons=true&hide_border=true"/>
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/464429065340977152?theme=dark&bg=18191c&animated=false&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/464429065340977152)
 </p>
