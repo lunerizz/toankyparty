@@ -20,6 +20,7 @@ Benle tanışmak veya bot almak için aşşağıdaki adreslerimden bana ulaşabi
    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 </p>
 
-
+<br>
+<br>
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/464429065340977152?theme=dark&bg=18191c&animated=false&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/464429065340977152)
 </p>
