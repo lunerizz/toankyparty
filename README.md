@@ -1,8 +1,15 @@
 <h1 align="center">Herkese merhabalar ben toanky 👋</h1>
 <p align="center">
-Yaklaşık 2015-2016 yılından beri internet üzerinden tasarımla(teamspeak bannerları - büyük firmaların logoları) ilgilenmekteyim, ve aynı zamanda bri yazılımcıyım. <br>
-5 yılı aşkın grafik tasarım ve 3 yılı aşkın javascript temelli discord botu geliştirme tecrübesine sahibim. <br>
-Benle tanışmak veya bot almak için aşşağıdaki adreslerimden bana ulaşabilirsiniz! <br>
+```js
+   class Toânky {
+  constructor(...options) {
+    this.weight = "60"
+    this.type = "human"
+    this.job = "student"
+    this.sex = "male"
+  }
+}
+```
 </p>
 
 <p align="center">
