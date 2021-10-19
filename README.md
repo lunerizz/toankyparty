@@ -1,5 +1,4 @@
 <h1 align="center">Herkese merhabalar ben toanky 👋</h1>
-<p align="center">
 ```js
    class Toânky {
   constructor(...options) {
@@ -10,7 +9,6 @@
   }
 }
 ```
-</p>
 
 <p align="center">
    <a href="https://discord.com/users/829135490250178560" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
