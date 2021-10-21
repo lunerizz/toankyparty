@@ -1,11 +1,17 @@
 ```js
-   class Toânky {
-  constructor(...options) {
-    this.weight = "60"
-    this.type = "human"
-    this.job = "student"
-    this.sex = "male"
-  }
+class Toânky {
+ constructor(...options) {
+  client.name = "Efe"
+  client.age = "16"
+  client.country = "Turkey"
+  client.city = "Bursa"
+  client.discord.id = "464429065340977152"
+  client.weight = "60"
+  client.type = "human"
+  client.job = "student"
+  client.sex = "male"
+  client.languages = ["JavaScript", "Java", "Python", "HTML", "EJS", "PHP", "CSS"]
+ }
 }
 ```
 
